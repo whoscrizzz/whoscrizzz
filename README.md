@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Cristofer S. 👋</h1>
 
-<!--
-**whoscrizzz/whoscrizzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Diseño con propósito y programo con precisión.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎨 Diseño y Comunicación Gráfica &nbsp;·&nbsp; 💻 Ingeniería en Desarrollo de Software
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍🎨 Un poco sobre mí
+
+Estoy en un camino poco común: estudio **diseño gráfico** y **desarrollo de software** al mismo tiempo, y en lugar de verlos como dos mundos separados, trato de que se complementen. Me gusta pensar tanto en cómo se ve algo como en cómo funciona por dentro.
+
+Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, interfaces, y código.
+
+---
+
+### 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔹 BILLS</h4>
+      <p>Breve descripción: App Web para mobile y escritorio, tus pagos pendientes mucho mas faciles de regisstrar, sumatoria de gastols, personalización total y facil de entender.</p>
+      <a href="https://bills.whoscrizzz.com">Bills</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Sitio Web · Portafolio</h4>
+      <p>Breve descripción: Langing page a mi marca personal WHOSCRIZZZ®, Servicios de Diseño Grafico y Desarrollo de Software, Mi trabajo desglozado en proyectos y en busqueda de nuevos, visitala y conoce más de mi.</p>
+      <a href="https://whoscrizzz.com">WHOSCRIZZZ®</a> · <p> Sitio web </p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔹 Nombre del proyecto</h4>
+      <p>Breve descripción: qué hace, qué problema resuelve o qué explorabas al hacerlo.</p>
+      <a href="#">Ver repositorio</a> · <a href="#">Ver demo</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Nombre del proyecto</h4>
+      <p>Breve descripción: qué hace, qué problema resuelve o qué explorabas al hacerlo.</p>
+      <a href="#">Ver repositorio</a> · <a href="#">Ver demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Con qué trabajo
+
+**Diseño**
+
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+
+**Desarrollo**
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+
+---
+
+### 🌐 Encuéntrame en
+
+<p>
+  <a href="https://whoscrizzz.com/portafolio">🌍 Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/cristofer-sanchez-whoscrizzz/">💼 LinkedIn</a> ·
+  <a href="">🎨 Behance</a> ·
+  <a href="mailto:contacto@whoscrizzz.com">✉️ Correo</a>
+</p>
+
+---
+
+<p align="center"><i>Gracias por pasarte por aquí — siéntete libre de explorar mis proyectos.</i></p>
