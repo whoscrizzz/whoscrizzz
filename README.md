@@ -23,28 +23,14 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
 <table>
   <tr>
     <td width="50%">
-      <h4>🔹 BILLS</h4>
-      <p>Breve descripción: App Web para mobile y escritorio, tus pagos pendientes mucho mas faciles de regisstrar, sumatoria de gastols, personalización total y facil de entender.</p>
-      <a href="https://bills.whoscrizzz.com">Bills</a>
+      <h4>🔹 BILLZZZ</h4>
+      <p>Drescripción: App Web para mobile y escritorio, tus pagos pendientes mucho mas faciles de regisstrar, sumatoria de gastols, personalización total y facil de entender.</p>
+      <a href="https://billzzz.whoscrizzz.com">Bills</a>
     </td>
     <td width="50%">
       <h4>🔹 Sitio Web · Portafolio</h4>
-      <p>Breve descripción: Langing page a mi marca personal WHOSCRIZZZ®, Servicios de Diseño Grafico y Desarrollo de Software, Mi trabajo desglozado en proyectos y en busqueda de nuevos, visitala y conoce más de mi.</p>
+      <p>Descripción: Langing page a mi marca personal WHOSCRIZZZ®, Servicios de Diseño Grafico y Desarrollo de Software, Mi trabajo desglozado en proyectos y en busqueda de nuevos, visitala y conoce más de mi.</p>
       <a href="https://whoscrizzz.com">WHOSCRIZZZ®</a> · <p> Sitio web </p>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔹 Nombre del proyecto</h4>
-      <p>Breve descripción: qué hace, qué problema resuelve o qué explorabas al hacerlo.</p>
-      <a href="#">Ver repositorio</a> · <a href="#">Ver demo</a>
-    </td>
-    <td width="50%">
-      <h4>🔹 Nombre del proyecto</h4>
-      <p>Breve descripción: qué hace, qué problema resuelve o qué explorabas al hacerlo.</p>
-      <a href="#">Ver repositorio</a> · <a href="#">Ver demo</a>
     </td>
   </tr>
 </table>
