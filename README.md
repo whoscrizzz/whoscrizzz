@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Cristofer S. 👋</h1>
+<h1 align="center">¡Hola! Soy Cristofer Sánchez 👋<br>Oh tambien conocido como WHOSCRIZZZ</h1>
 
 <p align="center">
   Diseño con propósito y programo con precisión.
@@ -24,8 +24,8 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
   <tr>
     <td width="50%">
       <h4>🔹 BILLZZZ</h4>
-      <p>Drescripción: App Web para mobile y escritorio, tus pagos pendientes mucho mas faciles de regisstrar, sumatoria de gastols, personalización total y facil de entender.</p>
-      <a href="https://billzzz.whoscrizzz.com">Bills</a>
+      <p>Drescripción: App Web para mobile y escritorio, tus pagos pendientes mucho mas faciles de registrar, sumatoria de gastos, personalización total y facil de entender.</p>
+      <a href="https://billzzz.whoscrizzz.com">Billzzz</a>
     </td>
     <td width="50%">
       <h4>🔹 Sitio Web · Portafolio</h4>
