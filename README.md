@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Cristofer Sánchez 👋<br>Oh tambien conocido como WHOSCRIZZZ</h1>
+<h1 align="center">Hi! i’m Crizzz<br>WHOSCRIZZZ<br></h1>
 
 <p align="center">
   Diseño con propósito y programo con precisión.
@@ -41,7 +41,6 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
 
 **Diseño**
 
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
 
@@ -50,7 +49,6 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 
 ---
@@ -58,9 +56,8 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
 ### 🌐 Encuéntrame en
 
 <p>
-  <a href="https://whoscrizzz.com/portafolio">🌍 Portafolio</a> ·
+  <a href="https://whoscrizzz.com/">🌐 Website</a> ·
   <a href="https://www.linkedin.com/in/cristofer-sanchez-whoscrizzz/">💼 LinkedIn</a> ·
-  <a href="">🎨 Behance</a> ·
   <a href="mailto:contacto@whoscrizzz.com">✉️ Correo</a>
 </p>
 
