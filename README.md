@@ -60,7 +60,3 @@ Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, inter
   <a href="https://www.linkedin.com/in/cristofer-sanchez-whoscrizzz/">💼 LinkedIn</a> ·
   <a href="mailto:contacto@whoscrizzz.com">✉️ Correo</a>
 </p>
-
----
-
-<p align="center"><i>Gracias por pasarte por aquí — siéntete libre de explorar mis proyectos.</i></p>
