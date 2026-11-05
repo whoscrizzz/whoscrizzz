@@ -1,20 +1,16 @@
-<h1 align="center">Hi! i’m Crizzz<br>WHOSCRIZZZ<br></h1>
-
-<p align="center">
-  🎨 Diseño y Comunicación Gráfica &nbsp;·&nbsp; 💻 Ingeniería en Desarrollo de Software
-</p>
+<h1 align="center">Hi! i’m Crizzz 🧑🏻‍💻<br>WHOSCRIZZZ<br></h1>
 
 ---
 
-### 🧑‍🎨 Un poco sobre mí
+### Un poco sobre mí
 
-Estoy en un camino poco común: estudio **diseño gráfico** y **desarrollo de software** al mismo tiempo, y en lugar de verlos como dos mundos separados, trato de que se complementen. Me gusta pensar tanto en cómo se ve algo como en cómo funciona por dentro.
+Estoy en un camino poco común: estudio **diseño gráfico** y **desarrollo de software** y en lugar de verlos como dos mundos separados, trato de que se complementen. Me gusta pensar tanto en cómo se ve algo como en cómo funciona por dentro.
 
 Aquí vas a encontrar proyectos donde mezclo ambos lados: piezas visuales, interfaces, y código.
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 <table>
   <tr>
