@@ -1,10 +1,6 @@
 <h1 align="center">Hi! i’m Crizzz<br>WHOSCRIZZZ<br></h1>
 
 <p align="center">
-  Diseño con propósito y programo con precisión.
-</p>
-
-<p align="center">
   🎨 Diseño y Comunicación Gráfica &nbsp;·&nbsp; 💻 Ingeniería en Desarrollo de Software
 </p>
 
