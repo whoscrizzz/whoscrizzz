@@ -1,4 +1,4 @@
-<h1 align="center">Hi! i’m Crizzz 🧑🏻‍💻<br>WHOSCRIZZZ<br></h1>
+<h1 align="center">Hi! i’m Crizzz</h1>
 
 ---
 
